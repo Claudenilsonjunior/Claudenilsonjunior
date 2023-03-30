@@ -1,4 +1,4 @@
-# DataVis360
+# About Me
 
 # 💫 About Me:
 🔭 I am currently studying data analysis <br>🏆 Semi-finalist in Tetrix 2021, the largest university challenge in Latin America. <br>🌱 I’m currently learning Python and SQL, Excel, and visualization tools like Power BI.<br>
