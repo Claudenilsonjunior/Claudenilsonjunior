@@ -1,7 +1,7 @@
 # About Me
 
 # 💫 About Me:
-🔭 I am currently studying data analysis <br>🏆 Semi-finalist in Tetrix 2021, the largest university challenge in Latin America. <br>🌱 I’m currently learning Python and SQL, Excel, and visualization tools like Power BI.<br>
+🔭 I am currently studying Python and Django. I am actively seeking and planning projects that can contribute to the fight against cancer.<br>🏆 Semi-finalist in Tetrix 2021, the largest university challenge in Latin America.<br>
 
 
 ## 🌐 Socials:
