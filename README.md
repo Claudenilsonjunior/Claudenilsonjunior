@@ -43,23 +43,22 @@ My work combines:
 
 ### 📌 Featured Projects
 
-#### 🧠 **Student Mental Health Analysis (SQL + Storytelling)**
-A deep dive into the *Student Depression Dataset*, uncovering mental health patterns and key risk factors.  
-🔗 [See project](https://github.com/Claudenilsonjunior/Student-Depression-SQL-Analysis)  
-🧰 SQL (cleaning, queries), Business Questions, Visual storytelling
 
-#### 🎬 **Pixar Dataset Analysis (Excel Dashboard)**
+#### 🎬 **Pixar Dataset Analysis **
 Built an interactive Excel dashboard using KPIs from 25+ Pixar films.  
 🔗 [View project](https://github.com/Claudenilsonjunior/Pixar-Data-Analysis)  
 📌 Focus on storytelling through clean design, metrics, and film-level comparison.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Claudenilsonjunior&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="180" />
+  <img src="https://ghchart.rshah.org/Claudenilsonjunior" alt="GitHub Contribution Chart" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudenilsonjunior&theme=dracula&hide_border=false" height="180" />
 </p>
+
 
 ---
 
