@@ -51,17 +51,6 @@ Built an interactive Excel dashboard using KPIs from 25+ Pixar films.
 
 ---
 
-### 📈 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Claudenilsonjunior" alt="GitHub Contribution Chart" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudenilsonjunior&theme=dracula&hide_border=false" height="180" />
-</p>
-
-
----
-
 ### 📬 Let's Connect
 
 <p align="left">
