@@ -1,10 +1,13 @@
-<h1 align="center">
-  Hi 👋 I'm Claudenilson Junior
-</h1>
+<h2 align="center">Data Analyst | Business-Driven Analytics | Job-Ready Portfolio</h2>
+<h1 align="center">Hi 👋 I'm Claudenilson Junior</h1>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Business Analytics</h3>
 
-<h3 align="center">
-Data Analyst • SQL • Python • Power BI • Business Analytics
-</h3>
+<p align="center">
+SQL • Python • Power BI • Excel • Data Analysis • Dashboards • Business Insights<br>
+🌍 Open to Remote Opportunities — Europe & USA
+Hands-on Data Analyst delivering end-to-end analytics solutions — from raw data to executive-ready insights.<br>
+Experience across e-commerce, operations, and performance reporting environments.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/claudenilson-junior" target="_blank">
