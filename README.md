@@ -1,72 +1,84 @@
-<h2 align="center">Hi 👋 I'm Júnior — a Data Analyst focused on turning data into business decisions</h2>
+<h2 align="center">Data Analyst | Business-Driven Analytics | Job-Ready Portfolio</h2>
 
 <p align="center">
-📊 SQL | Excel | Python | Power BI <br>
-🌍 Open to remote opportunities | Portfolio built on real-world problems
+SQL • Python • Power BI • Excel • Data Analysis • Dashboards • Business Insights<br>
+🌍 Open to Remote Opportunities — Europe & USA
 </p>
 
 ---
 
-## 🚀 Portfolio at a Glance
+## 🚀 Job-Ready Data Analytics Portfolio
 
-Below is a curated selection of **job-ready data analytics projects**.  
-Each project simulates real analyst workflows — from raw data to insights and recommendations.
+This repository is a **curated showcase of real-world, job-ready data analytics projects**.  
+Each project follows the **end-to-end analyst workflow** used in professional environments:
 
-### 📊 Featured Projects
+- Raw & messy data  
+- Data cleaning & validation  
+- Exploratory Data Analysis (EDA)  
+- KPI definition  
+- Business insights & recommendations  
+- Executive-ready dashboards  
 
-#### 🎬 Pixar Movies — Performance & Storytelling Analysis (Excel)
-**Business question:** What makes a Pixar movie successful over time?  
-**What I did:** KPI design, exploratory analysis, dashboard storytelling  
+No tutorials. No filler. Only **projects built to reflect real analyst work**.
+
+---
+
+## ⭐ Featured Project (Flagship)
+
+### 🛒 E-Commerce Sales Analysis — Revenue, Pricing & Performance
+**Goal:** Identify revenue drivers, pricing patterns, discount effectiveness, and sales behavior  
+**Dataset:** 42,000+ products  
+**What was delivered:**
+- Data cleaning & preparation  
+- Sales, pricing & rating analysis  
+- Revenue and performance KPIs  
+- Business insights with strategic recommendations  
+- Interactive Power BI dashboard  
+
+**Skills & Keywords:**  
+SQL • Python • Power BI • Data Cleaning • EDA • KPI Analysis • Pricing Analysis • Discount Strategy • Business Insights • Data Visualization • Stakeholder Reporting
+
+🔗 **[View project repository](https://github.com/Claudenilsonjunior/E-Commerce_Sales_Analysis)**
+
+---
+
+## 📊 Other Job-Ready Projects
+
+### 🎬 Pixar Movies — Performance & Storytelling Analysis
+**Focus:** KPI analysis, trends over time, performance storytelling  
 **Tools:** Excel  
+**Skills:** Data Analysis • KPI Design • Business Storytelling • Dashboarding  
+
 🔗 **[View repository](https://github.com/Claudenilsonjunior/Pixar-Data-Analysis)**
 
 ---
 
-<!-- Exemplo para projetos futuros -->
-<!--
-#### 🛒 E-commerce Sales Analysis (SQL + Power BI)
-**Business question:** Why are sales declining in certain regions?  
-**What I did:** Data cleaning, SQL analysis, dashboard + insights  
-**Tools:** SQL, Power BI  
-🔗 [View repository](link)
--->
+## 🧱 Upcoming Job-Ready Projects
+
+> This portfolio is actively evolving.  
+> Upcoming projects will focus on **advanced, business-oriented analytics**, including:
+
+- Advanced SQL analytics projects  
+- Multi-table business datasets  
+- Deeper KPI & performance analysis  
+- Executive-level dashboards  
+- Clear business recommendations  
+
+More **high-impact, job-ready projects** coming soon.
 
 ---
 
-## 🧠 About Me
+## 🛠️ Core Skills & Tools
 
-I believe data is only valuable when it leads to **clear decisions**.
+**Data Analysis & BI**  
+SQL • Python • Power BI • Excel • EDA • KPI Tracking • Dashboard Design • Business Insights  
 
-In 2023, I lost my mother to breast cancer. That experience reshaped how I see data:  
-not just as numbers, but as a way to understand patterns, risks, and real impact.
-
-Since then, I’ve focused on building **end-to-end analytical solutions**:
-- messy, raw datasets  
-- structured cleaning & exploration  
-- business-oriented insights  
-- clear visual communication  
-
-My goal is simple:  
-**help teams make better decisions using data they already have.**
+**Data Stack**  
+Python (Pandas, NumPy) • SQL (PostgreSQL, MySQL) • Power BI • Excel • Jupyter  
 
 ---
 
-## 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="30"/>
-</p>
-
----
-
-## 📬 Let’s Connect
+## 📬 Contact & Networking
 
 <p align="left">
   <a href="mailto:claudenilsonjunior2@gmail.com">
