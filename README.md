@@ -62,7 +62,7 @@ focusing on revenue drivers, regional performance, and product-level insights.
 
 👉 <a href="https://github.com/Claudenilsonjunior/E-Commerce_Sales_Analysis"><b>View Case Study</b></a>
 
----
+<!---
 
 ### 🎬 Entertainment Analytics — Movie Performance
 <b>Industry:</b> Media & Entertainment
@@ -85,7 +85,7 @@ and performance patterns.
 
 👉 <a href="https://github.com/Claudenilsonjunior/Pixar-Data-Analysis"><b>View Case Study</b></a>
 
----
+--- -->
 
 <!--
 🚧 Upcoming Job-Ready Case Studies
