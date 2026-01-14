@@ -40,7 +40,7 @@ SQL • Python • Power BI • Data Cleaning • EDA • KPI Analysis • Prici
 
 🔗 **[View project repository](https://github.com/Claudenilsonjunior/E-Commerce_Sales_Analysis)**
 
----
+``---
 
 ## 📊 Other Job-Ready Projects
 
@@ -51,7 +51,7 @@ SQL • Python • Power BI • Data Cleaning • EDA • KPI Analysis • Prici
 
 🔗 **[View repository](https://github.com/Claudenilsonjunior/Pixar-Data-Analysis)**
 
----
+---``
 
 ## 🧱 Upcoming Job-Ready Projects
 
