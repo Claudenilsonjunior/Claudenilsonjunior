@@ -1,63 +1,78 @@
-<h2 align="center">Hi there 👋 I'm Júnior – a Data Analyst turning raw data into real insights</h2>
+<h2 align="center">Hi 👋 I'm Júnior — a Data Analyst focused on turning data into business decisions</h2>
 
 <p align="center">
-  📊 SQL | Excel | Python | Power BI  
-  🌍 Open to remote opportunities | Focused on real-world impact
+📊 SQL | Excel | Python | Power BI <br>
+🌍 Open to remote opportunities | Portfolio built on real-world problems
 </p>
 
 ---
 
-### 🧠 About Me
+## 🚀 Portfolio at a Glance
 
-I believe data can tell powerful stories – especially when it's used to drive decisions that matter.
+Below is a curated selection of **job-ready data analytics projects**.  
+Each project simulates real analyst workflows — from raw data to insights and recommendations.
 
-In 2023, I lost my mother to breast cancer. Since then, I’ve been on a mission to use my skills in data to support real causes, understand patterns, and make information more actionable – not just for companies, but for people.
+### 📊 Featured Projects
 
-From sales dashboards to mental health trends in students, I specialize in building **clear, end-to-end analytical solutions**:  
-from **raw, messy data** to **meaningful dashboards and recommendations**.
-
-My work combines:
-- Analytical rigor 🧠  
-- Business storytelling 🧾  
-- Clean visuals 📊  
-- And a strong focus on **metrics that actually matter**.
+#### 🎬 Pixar Movies — Performance & Storytelling Analysis (Excel)
+**Business question:** What makes a Pixar movie successful over time?  
+**What I did:** KPI design, exploratory analysis, dashboard storytelling  
+**Tools:** Excel  
+🔗 **[View repository](https://github.com/Claudenilsonjunior/Pixar-Data-Analysis)**
 
 ---
 
-### 🛠️ Tools & Technologies
+<!-- Exemplo para projetos futuros -->
+<!--
+#### 🛒 E-commerce Sales Analysis (SQL + Power BI)
+**Business question:** Why are sales declining in certain regions?  
+**What I did:** Data cleaning, SQL analysis, dashboard + insights  
+**Tools:** SQL, Power BI  
+🔗 [View repository](link)
+-->
+
+---
+
+## 🧠 About Me
+
+I believe data is only valuable when it leads to **clear decisions**.
+
+In 2023, I lost my mother to breast cancer. That experience reshaped how I see data:  
+not just as numbers, but as a way to understand patterns, risks, and real impact.
+
+Since then, I’ve focused on building **end-to-end analytical solutions**:
+- messy, raw datasets  
+- structured cleaning & exploration  
+- business-oriented insights  
+- clear visual communication  
+
+My goal is simple:  
+**help teams make better decisions using data they already have.**
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" height="30" alt="Excel" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="30" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="30"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
-
-
-#### 🎬 **Pixar Dataset Analysis **
-Built an interactive Excel dashboard using KPIs from 25+ Pixar films.  
-🔗 [View project](https://github.com/Claudenilsonjunior/Pixar-Data-Analysis)  
-📌 Focus on storytelling through clean design, metrics, and film-level comparison.
-
----
-
-### 📬 Let's Connect
+## 📬 Let’s Connect
 
 <p align="left">
   <a href="mailto:claudenilsonjunior2@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/claudenilson-junior" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
   </a>
 </p>
