@@ -5,22 +5,16 @@
       padding: 0;
       box-sizing: border-box;
     }
-
-Plain Text
-
-
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
   line-height: 1.6;
   color: #0f172a;
 }
-
 .container {
   max-width: 900px;
   margin: 0 auto;
   padding: 0 20px;
 }
-
 .hero {
   padding: 60px 20px;
   background: linear-gradient(135deg, #f8fafc 0%, #e0f2fe 100%);
@@ -28,19 +22,16 @@ body {
   margin: 40px 0;
   text-align: center;
 }
-
 .hero h1 {
   font-size: 3em;
   margin-bottom: 10px;
   color: #0f172a;
   font-weight: 700;
 }
-
 .hero .highlight {
   color: #0ea5e9;
   font-weight: 700;
 }
-
 .hero p {
   font-size: 1.1em;
   color: #475569;
@@ -49,7 +40,6 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-
 .cta-buttons {
   display: flex;
   gap: 15px;
@@ -57,7 +47,6 @@ body {
   flex-wrap: wrap;
   margin-bottom: 30px;
 }
-
 .btn {
   padding: 12px 24px;
   border-radius: 8px;
@@ -68,37 +57,31 @@ body {
   border: 2px solid;
   display: inline-block;
 }
-
 .btn-primary {
   background-color: #0ea5e9;
   color: white;
   border-color: #0ea5e9;
 }
-
 .btn-primary:hover {
   background-color: #0284c7;
   border-color: #0284c7;
   transform: translateY(-2px);
 }
-
 .btn-secondary {
   background-color: transparent;
   color: #0ea5e9;
   border-color: #0ea5e9;
 }
-
 .btn-secondary:hover {
   background-color: #f0f9ff;
   transform: translateY(-2px);
 }
-
 .metrics {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 20px;
   margin: 40px 0;
 }
-
 .metric-card {
   background: white;
   padding: 20px;
@@ -107,26 +90,22 @@ body {
   text-align: center;
   transition: all 0.3s ease;
 }
-
 .metric-card:hover {
   border-color: #0ea5e9;
   box-shadow: 0 4px 12px rgba(14, 165, 233, 0.1);
 }
-
 .metric-number {
   font-size: 2.5em;
   font-weight: 700;
   color: #0ea5e9;
   margin-bottom: 5px;
 }
-
 .metric-label {
   font-size: 0.85em;
   color: #64748b;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
-
 .section {
   margin: 60px 0;
   padding: 40px 20px;
@@ -134,7 +113,6 @@ body {
   border-radius: 12px;
   border: 1px solid #e2e8f0;
 }
-
 .section h2 {
   font-size: 2em;
   margin-bottom: 30px;
@@ -142,21 +120,18 @@ body {
   border-bottom: 3px solid #0ea5e9;
   padding-bottom: 15px;
 }
-
 .section h3 {
   font-size: 1.3em;
   margin-top: 25px;
   margin-bottom: 15px;
   color: #0f172a;
 }
-
 .deliverables {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
   margin: 30px 0;
 }
-
 .deliverable-card {
   background: #f8fafc;
   padding: 20px;
@@ -164,23 +139,19 @@ body {
   border-left: 4px solid #0ea5e9;
   transition: all 0.3s ease;
 }
-
 .deliverable-card:hover {
   background: #f0f9ff;
   transform: translateX(5px);
 }
-
 .deliverable-card h4 {
   color: #0f172a;
   margin-bottom: 10px;
   font-size: 1.05em;
 }
-
 .deliverable-card p {
   color: #64748b;
   font-size: 0.95em;
 }
-
 .project-card {
   background: #f8fafc;
   padding: 25px;
@@ -189,36 +160,30 @@ body {
   margin: 20px 0;
   transition: all 0.3s ease;
 }
-
 .project-card:hover {
   border-color: #0ea5e9;
   box-shadow: 0 8px 16px rgba(14, 165, 233, 0.15);
 }
-
 .project-card h3 {
   color: #0f172a;
   margin-bottom: 8px;
 }
-
 .project-industry {
   color: #0ea5e9;
   font-size: 0.9em;
   font-weight: 600;
   margin-bottom: 15px;
 }
-
 .scope-list {
   list-style: none;
   margin: 15px 0;
 }
-
 .scope-list li {
   padding: 8px 0;
   padding-left: 25px;
   position: relative;
   color: #475569;
 }
-
 .scope-list li:before {
   content: "→";
   position: absolute;
@@ -226,14 +191,12 @@ body {
   color: #0ea5e9;
   font-weight: bold;
 }
-
 .tech-stack {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
   margin: 15px 0;
 }
-
 .tech-badge {
   background: white;
   color: #0ea5e9;
@@ -243,14 +206,12 @@ body {
   font-size: 0.85em;
   font-weight: 600;
 }
-
 .stack-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 15px;
   margin: 30px 0;
 }
-
 .stack-item {
   background: white;
   padding: 20px;
@@ -259,29 +220,24 @@ body {
   text-align: center;
   transition: all 0.3s ease;
 }
-
 .stack-item:hover {
   border-color: #0ea5e9;
   background: #f0f9ff;
   transform: translateY(-5px);
 }
-
 .stack-icon {
   font-size: 2.5em;
   margin-bottom: 10px;
 }
-
 .stack-name {
   font-weight: 600;
   color: #0f172a;
   margin-bottom: 5px;
 }
-
 .stack-desc {
   font-size: 0.8em;
   color: #64748b;
 }
-
 .availability-banner {
   background: linear-gradient(135deg, #0ea5e9 0%, #06b6d4 100%);
   color: white;
@@ -291,7 +247,6 @@ body {
   margin: 30px 0;
   font-weight: 500;
 }
-
 .cta-section {
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
   color: white;
@@ -300,13 +255,11 @@ body {
   text-align: center;
   margin: 40px 0;
 }
-
 .cta-section h2 {
   color: white;
   border-bottom-color: #0ea5e9;
   margin-bottom: 20px;
 }
-
 .cta-section p {
   color: #cbd5e1;
   margin-bottom: 30px;
@@ -314,14 +267,12 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-
 .social-links {
   display: flex;
   gap: 15px;
   justify-content: center;
   margin: 30px 0;
 }
-
 .social-link {
   display: inline-flex;
   align-items: center;
@@ -334,44 +285,35 @@ body {
   transition: all 0.3s ease;
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
-
 .social-link:hover {
   background: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.4);
 }
-
 .divider {
   height: 1px;
   background: linear-gradient(to right, transparent, #e2e8f0, transparent);
   margin: 40px 0;
 }
-
 @media (max-width: 600px) {
   .hero h1 {
     font-size: 2em;
   }
-  
   .hero p {
     font-size: 1em;
   }
-  
   .cta-buttons {
     flex-direction: column;
   }
-  
   .btn {
     width: 100%;
     text-align: center;
   }
-  
   .metrics {
     grid-template-columns: 1fr;
   }
-  
   .deliverables {
     grid-template-columns: 1fr;
   }
-  
   .stack-grid {
     grid-template-columns: repeat(2, 1fr);
   }
